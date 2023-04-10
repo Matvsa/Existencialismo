@@ -16,7 +16,7 @@ Esse projeto tem como intuito de deixar como portifolio e também treino de HTML
 ## Demonstração
 
 Você pode ver uma demonstração de como o site está no meu linkedin! 
-https://www.linkedin.com/posts/matheus-vieira-dos-santos-645b46227_html-css-github-activity-7051270650430205952-vRVU?utm_source=share&utm_medium=member_desktop
+encurtador.com.br/osuLS
 
 Ajudaria muito se curtir e compartilhar! :)
 
