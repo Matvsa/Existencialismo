@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100;1,900&display=swap');
+
+.cabecalho {
+    padding: 20px;
+}
+
+.texto-cabecalho {
+    font-family: 'Monteserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F2E6B6;
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto-home {
+    text-decoration: none;
+    color: #F2E6B6;
+    padding: 20px 250px;
+    
+}
+
+
+
+
+body {
+    background-color: #292929;
+    color: #8F9E8B;
+    box-sizing: border-box;
+}
+
+strong {
+    color: #F2E6B6;
+}
+
+.apresentacao {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 15%;
+}
+
+.escrita {
+    width: 615px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.titulo {
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.texto  {
+    font-size: 22px;
+}
+
+.albert {
+    width: 30%;
+    border: 3px solid #F2E6B6;
+    border-radius: 10px;
+}
+
+.botao {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.filosofo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #F2E6B6;
+    border: 2px solid #F2E6B6; 
+    border-radius: 8px;
+    font-size: 24px;
+    padding: 15px 0;
+    text-decoration: none;
+}
+
+.icon {
+    width: 70px;
+}
+
+.filosofo:hover {
+    font-size: 26px;
+    transition: 1s;
+    background-color: #493832;
+}
+
+.rodape {
+    background-color: #F2E6B6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.texto-rodape {
+    font-family: 'Montserrat', sans-serif;
+    color: #292929;
+    font-size: 16px;
+}
+
+.jiji {
+    width: 100px;
+}
