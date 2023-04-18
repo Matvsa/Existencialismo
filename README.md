@@ -13,11 +13,3 @@ Esse projeto tem como intuito de deixar como portifolio e também treino de HTML
 
 
 
-## Demonstração
-
-Você pode ver uma demonstração de como o site está no meu linkedin! 
-
-encurtador.com.br/xEIP9
-
-Ajudaria muito se curtir e compartilhar! :)
-
